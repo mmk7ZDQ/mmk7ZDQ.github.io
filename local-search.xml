@@ -4,6 +4,35 @@
   
   
   <entry>
+    <title>编程随想 — 离线博客阅读指南</title>
+    <link href="/posts/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3-%E7%A6%BB%E7%BA%BF%E5%8D%9A%E5%AE%A2/"/>
+    <url>/posts/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3-%E7%A6%BB%E7%BA%BF%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="教学类分享篇"><a href="#教学类分享篇" class="headerlink" title="教学类分享篇"></a>教学类分享篇</h1><h2 id="编程随想"><a href="#编程随想" class="headerlink" title="编程随想"></a>编程随想</h2><p>离线的编程随想博客，不翻墙也能看</p><hr><p><img src="/images/wn1.png" alt="编程随想本人照片"></p><h2 id="编程随想-离线博客链接"><a href="#编程随想-离线博客链接" class="headerlink" title="编程随想 离线博客链接"></a>编程随想 离线博客链接</h2><p>这块带来编程随想离线博客的链接啊，iCloud 链接的可以免墙访问 😁👍<br>（如果失效了记得发邮件给我哈，这里 <a href="mailto:&#108;&#119;&#122;&#97;&#114;&#x61;&#116;&#104;&#117;&#115;&#x74;&#x72;&#97;&#64;&#x6f;&#x75;&#116;&#108;&#111;&#x6f;&#107;&#x2e;&#x63;&#111;&#x6d;">lwzarathustra@outlook.com</a>）</p><ul><li>iCloud 链接: <a href="https://www.icloud.com/iclouddrive/0160I8qlfgIxRBoPPvRe06eUA#blogspot">https://www.icloud.com/iclouddrive/0160I8qlfgIxRBoPPvRe06eUA#blogspot</a></li></ul><hr><h2 id="教程（Windows-用户说明）"><a href="#教程（Windows-用户说明）" class="headerlink" title="教程（Windows 用户说明）"></a>教程（Windows 用户说明）</h2><p>这个教程面向 Windows 用户（用 Linux 的人通常不需要这些步骤）：</p><ol><li>先解压这个压缩包（手机相关的会另外说明）。</li><li>解压后你会看到目录，双击进入 <code>blog</code> 文件夹，然后打开里面的 <code>html</code> 文件夹。</li><li>滑到底部双击 <code>index.html</code>，用浏览器打开（Edge、Chrome、Firefox 任意一个都可以）。</li><li>现在你已经可以离线阅读博客了 —— 到此为止，完成！</li></ol><blockquote><p>提示：如果没有解压软件，可以下载 WinRAR 或 7-Zip。建议使用官方渠道（搜索引擎自行选择），避免下载安装携带捆绑软件的程序。<br><img src="/images/wn2.png" alt="文件管理器"></p></blockquote><hr><h2 id="手机端说明"><a href="#手机端说明" class="headerlink" title="手机端说明"></a>手机端说明</h2><p>手机端操作也很简单（以 Android 为主，华为未单独测试）：</p><ol><li>在手机上打开文件管理，进入 <code>Download</code>（下载）文件夹，找到压缩包并解压到能看到的位置。</li><li>如果系统不支持 <code>.7z</code> 格式，请在应用市场下载解压工具。</li><li>解压完成后，打开 <code>blog/html</code> 文件夹，滑到底部，用浏览器打开 <code>index.html</code>（建议不要使用系统自带的“HTML 查看器”）。</li><li>若使用 Chrome 或 Firefox 手机版，通常可以正常打开（不过有时排版会有问题）。</li></ol><hr><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>感觉好像没有什么要说的了。。。。当然本篇没有任何技术含量，仅仅是给纯小白看的。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>教学类分享</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>编程随想</tag>
+      
+      <tag>离线阅读</tag>
+      
+      <tag>教程</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>起点篇</title>
     <link href="/2025/07/22/%E8%B5%B7%E7%82%B9%E7%AF%87/"/>
     <url>/2025/07/22/%E8%B5%B7%E7%82%B9%E7%AF%87/</url>
