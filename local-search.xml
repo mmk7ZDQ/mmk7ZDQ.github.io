@@ -4,6 +4,35 @@
   
   
   <entry>
+    <title>翻墙篇</title>
+    <link href="/2025/08/12/%E8%A7%84%E9%81%BF%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/"/>
+    <url>/2025/08/12/%E8%A7%84%E9%81%BF%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/</url>
+    
+    <content type="html"><![CDATA[<h1 id="规避网络审查"><a href="#规避网络审查" class="headerlink" title="规避网络审查"></a>规避网络审查</h1><h2 id="防火墙"><a href="#防火墙" class="headerlink" title="防火墙"></a>防火墙</h2><p><img src="/images/Ds4f.png" alt="Reuters: Will Burgess"><br>前几篇因为最近忙些更的都是无关紧要的内容，现在我将端上最重磅的——翻墙教学！！，首先介绍下防火墙，这个玩意呢主要是用于过滤、封锁不符合“官方叙事”的网站，而制造了信息封锁以后，就可以很容易的带偏，洗脑韭菜。翻墙在这个时代是很必要的哈，如果你学会了翻墙，就可以去看墙外的信息，从而避免朝廷用单一的信息源去误导你。今年天廷不是爆发了很多丑闻嘛，官方就发公告去企图扭曲事实，就像杭州的粪水、之前的耳环事件，现在的亮证姐，一看官方公告，这….真的有人会信吗，啊去逛逛某站的评论区，有啊而且数量还不少，朝廷的洗脑术还是发力了。咳咳其他的内容我就不在这里赘述了，刚刚顺便把维基关于防火墙的内容D下来了（<a href="https://github.com/mmk7ZDQ/Blogfilereferencelibrary/releases/download/HTML%E9%99%84%E4%BB%B6/default.html">https://github.com/mmk7ZDQ/Blogfilereferencelibrary/releases/download/HTML%E9%99%84%E4%BB%B6/default.html</a>）挂在了github仓库上，有需要的可以自己下来看😊。</p><h2 id="自由门"><a href="#自由门" class="headerlink" title="自由门"></a>自由门</h2><p>老牌的翻墙工具了，法轮出品（你用它的VPN就行了，里面的东西我建议你还是不要去信），这个日常都还算稳定，官网在这（<a href="https://m.dongtaiwang.com/">https://m.dongtaiwang.com</a>）但是官网被ban了，我就D一份在这里（<a href="https://github.com/mmk7ZDQ/Blogfilereferencelibrary/releases/download/HTML%E9%99%84%E4%BB%B6/ziyoumen.apk">https://github.com/mmk7ZDQ/Blogfilereferencelibrary/releases/download/HTML%E9%99%84%E4%BB%B6/ziyoumen.apk</a>）</p><h2 id="迷雾通"><a href="#迷雾通" class="headerlink" title="迷雾通"></a>迷雾通</h2><p>这个是品葱搞的VPN，官网（<a href="https://geph.io/">https://geph.io/</a>），用起来的话和差不多和自由门一样稳定，我在这也D了一份（<a href="https://github.com/mmk7ZDQ/Blogfilereferencelibrary/releases/download/HTML%E9%99%84%E4%BB%B6/miwutong.apk">https://github.com/mmk7ZDQ/Blogfilereferencelibrary/releases/download/HTML%E9%99%84%E4%BB%B6/miwutong.apk</a>）</p><h2 id="警察钓鱼类"><a href="#警察钓鱼类" class="headerlink" title="警察钓鱼类"></a>警察钓鱼类</h2><p>注意了，老王VPN和东风VPN这两个千万不要下载来用，这两个都是警察用来钓鱼的！！</p><h2 id="Clash和V2ray"><a href="#Clash和V2ray" class="headerlink" title="Clash和V2ray"></a>Clash和V2ray</h2><p>两个非常有名的VPN软件，就拿Clash来说，软件下载好打开里面是空的，而使用的话很简单，只需要找到卖相关订阅的网站（订阅商）拿到链接，回到clash里面在配置处导入链接就可以使用了（啊啊虽然大部分订阅都是要收费的，但是也有公益节点😁👍👍，下面会讲）。V2r的使用方式也是类似的。</p><h3 id="公益节点"><a href="#公益节点" class="headerlink" title="公益节点"></a>公益节点</h3><p>首先呢是ikuuuVPN（<a href="https://ikuuu.pw/user">https://ikuuu.pw/user</a>）（<a href="https://ikuuu.pw/">https://ikuuu.pw/</a>），这个节点商呢算得上是非常良心的，免费节点速度够快，每月50G。缺点就是不太稳定，有时候容易被墙。</p><p>其次就是这个仓库的公益项目（<a href="https://github.com/Vikutorika/Airports">https://github.com/Vikutorika/Airports</a>）可能会更新慢（不太推荐）</p><p>这里呢就是两个提供免费链接的TG频道</p><p>（<a href="https://t.me/xmdepd">https://t.me/xmdepd</a>）</p><p>（<a href="https://t.me/changfengchannel">https://t.me/changfengchannel</a>）</p><p>其他的频道我暂时还没找到（懒）如果有其它公益的网站或频道，记得发邮件给我（一定要备注！）我会更新到博客上面去的。</p><h3 id="Proton"><a href="#Proton" class="headerlink" title="Proton"></a>Proton</h3><p>protonVPN呢是在隐私保护和多协议方面比较出色，可惜免费用户速度很慢（不太推荐）</p><p>这里贴官网（<a href="https://protonvpn.com/">https://protonvpn.com/</a>）这个是下载链接（<a href="https://github.com/mmk7ZDQ/Blogfilereferencelibrary/releases/download/HTML%E9%99%84%E4%BB%B6/ProtonVPN-5.12.25.0.605122500.-production-vanilla-direct-release.apk">https://github.com/mmk7ZDQ/Blogfilereferencelibrary/releases/download/HTML%E9%99%84%E4%BB%B6/ProtonVPN-5.12.25.0.605122500.-production-vanilla-direct-release.apk</a>）</p><h3 id="Nthlink"><a href="#Nthlink" class="headerlink" title="Nthlink"></a>Nthlink</h3><p>这个嘛用得少说不上有什么特点，速度还行，废话不多说我直接贴链接了</p><p>官网（<a href="https://www.nthlink.com/">https://www.nthlink.com/</a>）</p><p>我D的版本（<a href="https://www.nthlink.com/">https://www.nthlink.com/</a>）</p><h2 id="同步神器ResilioSync"><a href="#同步神器ResilioSync" class="headerlink" title="同步神器ResilioSync"></a>同步神器ResilioSync</h2><p>为什么用Resilio Sync呢，主要是：1无需自建服务器，2文件传输没有大小限制，还有拿到密钥就能使用。后面呢我可能会经常用这个工具来传输软件和一些其他的文件。这个是VPN文件夹的密钥：B74NEF6SVQM6KRLOGSNUBDOSV6I7YOY2D</p><p>官网（<a href="https://www.resilio.com/sync/">https://www.resilio.com/sync/</a>）</p><p>我仓库的链接（<a href="https://github.com/mmk7ZDQ/Blogfilereferencelibrary/releases/download/HTML%E9%99%84%E4%BB%B6/Sync_3.1.0.apk">https://github.com/mmk7ZDQ/Blogfilereferencelibrary/releases/download/HTML%E9%99%84%E4%BB%B6/Sync_3.1.0.apk</a>）</p><p>还有iCloud的（<a href="https://www.icloud.com/iclouddrive/09etO24y7P1FDb2hHMw9FF5rQ#Sync%5F3.1.0">https://www.icloud.com/iclouddrive/09etO24y7P1FDb2hHMw9FF5rQ#Sync%5F3.1.0</a>）</p><h2 id="结束"><a href="#结束" class="headerlink" title="结束"></a>结束</h2><p>好了，写了那么多，也有点累了，那么本篇完结吧🎉</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>网络</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>翻墙</tag>
+      
+      <tag>VPN</tag>
+      
+      <tag>网络安全</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>编程随想 — 离线博客阅读指南</title>
     <link href="/posts/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3-%E7%A6%BB%E7%BA%BF%E5%8D%9A%E5%AE%A2/"/>
     <url>/posts/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3-%E7%A6%BB%E7%BA%BF%E5%8D%9A%E5%AE%A2/</url>
